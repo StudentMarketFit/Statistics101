@@ -29,7 +29,7 @@ if (viewer_is_happy is True):
 
 #### Equations
 How about equations?
-$$ x = 2^4 + y$$
+$$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$
 
 
 #### Diagrams (made with mermaid)
